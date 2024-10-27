@@ -4,7 +4,7 @@ José Ignacio Loayza
 
 ## Landing Page y Commerce Page
 
-![Screen1](screens\screen2.jpg)
+![Screen1](.\screens\screen2.jpg)
 
 Landing page:
 
@@ -21,7 +21,7 @@ Cada muestra de guitarra que de promedio cabrán unas 4 por pantalla será mas l
 
 ## Detail Page y Cart page
 
-![Screen2](screens\screen4.jpg)
+![Screen2](.\screens\screen4.jpg)
 
 Detail page:
 
@@ -37,7 +37,7 @@ Al acabar ésta lista nos encontramos con el subtotal de todo el carrito y las e
 
 ## Checkout Page y Log in page
 
-![Screen3](screens\screen3.jpg)
+![Screen3](.\screens\screen3.jpg)
 
 Checkout page:
 
@@ -50,7 +50,7 @@ El log in es claramente un formulario que pide el nombre, correo, número de tel
 
 ## Blog Page y extra Payment page
 
-![Screen4](screens\screen1.jpg)
+![Screen4](.\screens\screen1.jpg)
 
 Blog page:
 
